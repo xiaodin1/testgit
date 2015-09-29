@@ -3,7 +3,7 @@
 int main()
 {
     int i,j,a[100][100],n,k;
-    printf("请输入列数n= ");
+    printf("请输入列数n= ");//正方形n*n
     scanf("%d",&n);
     k=1;
     //输出上三角
